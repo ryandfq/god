@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+OpenVino 2024.0.0 (#8726)
