@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add docs guide terminal images (#8819)
