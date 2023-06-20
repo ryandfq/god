@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add horizontal Mosaic3 augmentation (#6898)
