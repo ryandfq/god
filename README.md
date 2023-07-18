@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Merge pull request #22 from SkalskiP/patch-1
