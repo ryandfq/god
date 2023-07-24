@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Explorer with LanceDB, Actions and Docs updates (#7487)
