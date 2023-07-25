@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
