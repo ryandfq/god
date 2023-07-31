@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Reverse IoU threshold for NMS docs descriptions (#9151)
