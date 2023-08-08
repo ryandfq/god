@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
