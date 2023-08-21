@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add OBB benchmarks to CI (#7777)
