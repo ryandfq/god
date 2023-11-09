@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
