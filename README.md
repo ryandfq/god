@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
