@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Replacing Images for torchscript.md (#8596)
