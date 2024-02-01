@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
