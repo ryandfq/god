@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update format.yml to pull_request_target (#7460)
