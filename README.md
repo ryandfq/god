@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Tracker: clean up GMC (#8003)
