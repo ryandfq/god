@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix Multi-GPU resume bug (#7328)
