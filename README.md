@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add YOLOv8 LibTorch C++ inference example (#7090)
