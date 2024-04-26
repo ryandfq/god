@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Updating a typo on paddlepaddle.md (#9108)
