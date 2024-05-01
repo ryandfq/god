@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Optimize function calls to method calls (#8507)
