@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Improve Coral Edge TPU guide (#8160)
