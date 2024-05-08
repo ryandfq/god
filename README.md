@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update Discord and Contributing Guide URLs (#9270)
