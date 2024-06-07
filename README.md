@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
