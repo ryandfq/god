@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update docs building code (#7601)
