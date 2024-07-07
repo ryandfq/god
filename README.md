@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
