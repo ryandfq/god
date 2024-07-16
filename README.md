@@ -1,1 +1,1 @@
-fix non-coco val
+Update the heatmap module code + docs (#7045)
