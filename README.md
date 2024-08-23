@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix PIL show() and save() (#8202)
