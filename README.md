@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
