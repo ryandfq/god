@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
