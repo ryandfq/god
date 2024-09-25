@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
