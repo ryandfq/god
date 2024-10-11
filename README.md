@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Optimize function calls to method calls (#8507)
