@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Fix docker.yaml double-quote version bug (#7452)
