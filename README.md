@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update format.yml to pull_request_target (#7460)
